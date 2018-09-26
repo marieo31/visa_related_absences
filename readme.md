@@ -38,8 +38,6 @@ Class activities for the sessions I will miss because I have to change my visa t
 * **API keys** 
 * **Iterative requests**
 
-
-
 ### In-class activities:
 - 02_Stu_SpaceX.ipynb
   - Go through API documentation 
@@ -60,6 +58,42 @@ Class activities for the sessions I will miss because I have to change my visa t
   - looping on the query criteria to obtain more results
 
 
+## Session Thursday 09/20/2018 - 6.2 JSON Traversal and Data Parsing
 
+### ppt: Working with Weather & City APIs.pptx
+
+### Notions and related python methods:
+* **json:** Importing and geting info from json files
+* **API requests**
+* **try/except:** Handle bugs and exceptions gracefully
+* **Combined use of API request, Pandas dataframe, Matplotlib**
+* ** API wrappers:** Easier API requests configurations with settings dict instead of query url specific syntax
+* ** API documentation**
+
+### In-class activities:
+- 01_Stu_JSON_Traversal.ipynb
+  - Manipulating json imported dictionary
+- 02_Stu_RequestReview.ipynb
+  - List of dict from API request
+- 04_Stu_Bujumbura.ipynb
+  - Complex request (several parameters)
+- 06_Stu_TVRatings.ipynb
+  - Using API request, Pandas and Matplotlib
+- 08_Stu_MakingExceptions.ipynb
+  - try/except with specification of error type
+- 10_Stu_MapWrap.ipynb
+  - Using API wrapper to ease the configuration of the resquest (settings) and the extraction of information from the API data
+- 12_Stu_TwoCalls.ipynb
+  - Use API documentation
+  - Obtain information from a first call to make other API requests
+
+## Session Saturday 09/20/2018 - 6.3 Visualizing Financial Deserts with Google Places and Census
+
+
+### In-class activities:
+- 03_Google_That.ipynb
+- 05_Airport_Ratings.ipynb
+- 07_airport_heatmap.ipynb
+- 09_Census_States.ipynb
 
 
