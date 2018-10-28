@@ -1,6 +1,6 @@
 # visa_related_absences
 
-Class activities for the sessions I will miss because I have to change my visa type at the US-embassy in Paris
+Class activities for the sessions I will miss
 
 ## Session: Saturday 09/15/2018 - 5.3 Real-World Data Visualization with Matplotlib
 
